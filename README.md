@@ -11,7 +11,7 @@ I'm a passionate developer focused on building impactful software and learning c
 **Languages:** Java · Python  
 **Backend:** Spring Boot · REST APIs  
 **Frontend:** React  
-**ML / DL:** TensorFlow · Keras · OpenCV · Librosa · Scikit-learn  
+**ML / DL:** TensorFlow  · OpenCV · Librosa · Scikit-learn  
 **Database:** MySQL · SQL  
 **DevOps & Tools:** Git · GitHub · GitHub Actions  
 **Cloud:** AWS Basics
